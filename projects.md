@@ -16,10 +16,13 @@ mental demand, and effort — while maintaining equivalent task performance and 
 skill acquisition during training. Perception models were trained on synthetic data
 generated from our dVRK digital twin (see below).
 
+<figure>
 <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/2xj2fiRlrww" 
   frameborder="0" allowfullscreen>
 </iframe>
+  <figcaption>Final system including segmentation, depth, contact estimation, and haptic actuation.</figcaption>
+</figure>
 
 📄 Galvan, A.F., Rowland, D., and Majewicz Fey, A. Toward vision-based proximity estimation
 and tactile feedback for surgical teleoperation. *IEEE RA-L*, 2026. To appear.
@@ -92,6 +95,22 @@ robustness of downstream learned models.
 
 A bilateral teleoperation system developed in collaboration with Sony AI for large-scale
 demonstration collection for downstream robot learning. My contributions are the bilateral teleoperation system between the Lambda.7 haptic feedback device and Roboligent Optimo and PLATO arm-hand assembly enabling real-time, low-latency control. Moreover I handled creating a time-aligned data collection framework with HDF5 export, including necessary calibrations.
+
+<figure>
+<iframe width="560" height="315" 
+  src="https://youtu.be/29S2NQBzoSg" 
+  frameborder="0" allowfullscreen>
+</iframe>
+  <figcaption>Jenga playing.</figcaption>
+</figure>
+
+<figure>
+<iframe width="560" height="315" 
+  src="https://youtu.be/RaPcsjFJJ1s" 
+  frameborder="0" allowfullscreen>
+</iframe>
+  <figcaption>Haptic feedback from sensorized hand.</figcaption>
+</figure>
 
 <figure>
 <iframe width="560" height="315" 
