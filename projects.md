@@ -39,18 +39,20 @@ an extension of the manipulator rather than a contact target. The result is a mo
 robust contact estimate that remains reliable under occlusion, segmentation noise,
 and dynamic grasping conditions.
 
-<iframe width="315" height="560"
-  src="https://www.youtube.com/embed/08QSUb7up8w"
-  frameborder="0" allowfullscreen>
-</iframe>
-<iframe width="315" height="560"
-  src="https://www.youtube.com/embed/39IcLZFQIW8"
-  frameborder="0" allowfullscreen>
-</iframe>
-<iframe width="315" height="560"
-  src="https://www.youtube.com/embed/h2WzMRVDBUo"
-  frameborder="0" allowfullscreen>
-</iframe>
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <iframe width="200" height="355"
+    src="https://www.youtube.com/embed/08QSUb7up8w"
+    frameborder="0" allowfullscreen>
+  </iframe>
+  <iframe width="200" height="355"
+    src="https://www.youtube.com/embed/39IcLZFQIW8"
+    frameborder="0" allowfullscreen>
+  </iframe>
+  <iframe width="200" height="355"
+    src="https://www.youtube.com/embed/h2WzMRVDBUo"
+    frameborder="0" allowfullscreen>
+  </iframe>
+</div>
 
 📄 Galvan, A.F. and Majewicz Fey, A. Grasp- and object-aware contact estimation
 from vision. In preparation.
@@ -100,12 +102,11 @@ calibrations.
 
 <figure>
 <iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/MCIoHb-zNqw" 
+  src="https://www.youtube.com/embed/29S2NQBzoSg" 
   frameborder="0" allowfullscreen>
 </iframe>
   <figcaption>Jenga playing.</figcaption>
 </figure>
-
 <figure>
 <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/RaPcsjFJJ1s" 
