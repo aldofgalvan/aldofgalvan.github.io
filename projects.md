@@ -40,15 +40,15 @@ robust contact estimate that remains reliable under occlusion, segmentation nois
 and dynamic grasping conditions.
 
 <iframe width="560" height="315" 
-  src="https://youtube.com/shorts/08QSUb7up8w?feature=share" 
+  src="https://youtube.com/embed/08QSUb7up8w?feature=share" 
   frameborder="0" allowfullscreen>
 </iframe>
 <iframe width="560" height="315" 
-  src="https://youtube.com/shorts/39IcLZFQIW8?feature=share" 
+  src="https://youtube.com/embed/39IcLZFQIW8?feature=share" 
   frameborder="0" allowfullscreen>
 </iframe>
 <iframe width="560" height="315" 
-  src="https://youtube.com/shorts/h2WzMRVDBUo?feature=share" 
+  src="https://youtube.com/embed/h2WzMRVDBUo?feature=share" 
   frameborder="0" allowfullscreen>
 </iframe>
 
