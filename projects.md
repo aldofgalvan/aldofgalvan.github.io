@@ -39,16 +39,16 @@ an extension of the manipulator rather than a contact target. The result is a mo
 robust contact estimate that remains reliable under occlusion, segmentation noise,
 and dynamic grasping conditions.
 
-<iframe width="560" height="315" 
-  src="https://youtube.com/embed/08QSUb7up8w?feature=share" 
+<iframe width="315" height="560"
+  src="https://www.youtube.com/embed/08QSUb7up8w"
   frameborder="0" allowfullscreen>
 </iframe>
-<iframe width="560" height="315" 
-  src="https://youtube.com/embed/39IcLZFQIW8?feature=share" 
+<iframe width="315" height="560"
+  src="https://www.youtube.com/embed/39IcLZFQIW8"
   frameborder="0" allowfullscreen>
 </iframe>
-<iframe width="560" height="315" 
-  src="https://youtube.com/embed/h2WzMRVDBUo?feature=share" 
+<iframe width="315" height="560"
+  src="https://www.youtube.com/embed/h2WzMRVDBUo"
   frameborder="0" allowfullscreen>
 </iframe>
 
@@ -87,18 +87,20 @@ robustness of downstream learned models.
   frameborder="0" allowfullscreen>
 </iframe>
 
-
-
 ---
 
 ## Haptic Teleoperation for Robot Learning
 
 A bilateral teleoperation system developed in collaboration with Sony AI for large-scale
-demonstration collection for downstream robot learning. My contributions are the bilateral teleoperation system between the Lambda.7 haptic feedback device and Roboligent Optimo and PLATO arm-hand assembly enabling real-time, low-latency control. Moreover I handled creating a time-aligned data collection framework with HDF5 export, including necessary calibrations.
+demonstration collection for downstream robot learning. My contributions are the bilateral
+teleoperation system between the Lambda.7 haptic feedback device and Roboligent Optimo
+and PLATO arm-hand assembly enabling real-time, low-latency control. Moreover I handled
+creating a time-aligned data collection framework with HDF5 export, including necessary
+calibrations.
 
 <figure>
 <iframe width="560" height="315" 
-  src="https://youtu.be/29S2NQBzoSg" 
+  src="https://www.youtube.com/embed/MCIoHb-zNqw" 
   frameborder="0" allowfullscreen>
 </iframe>
   <figcaption>Jenga playing.</figcaption>
@@ -106,7 +108,7 @@ demonstration collection for downstream robot learning. My contributions are the
 
 <figure>
 <iframe width="560" height="315" 
-  src="https://youtu.be/RaPcsjFJJ1s" 
+  src="https://www.youtube.com/embed/RaPcsjFJJ1s" 
   frameborder="0" allowfullscreen>
 </iframe>
   <figcaption>Haptic feedback from sensorized hand.</figcaption>
@@ -114,17 +116,18 @@ demonstration collection for downstream robot learning. My contributions are the
 
 <figure>
 <iframe width="560" height="315" 
-  src="https://youtu.be/MCIoHb-zNqw" 
+  src="https://www.youtube.com/embed/MCIoHb-zNqw" 
   frameborder="0" allowfullscreen>
 </iframe>
   <figcaption>Real-time block tracking enabled by hand-eye calibration and connection with external perception stack.</figcaption>
 </figure>
 
-
 📄 Dalla Gasperina, S., Kang, D.H., Zhang, H., Galvan, A.F., et al. A bilateral teleoperation
 framework for dexterous manipulation. *IEEE RA-P*, 2026. Under review.
 
-📄 Boyea, H., Galvan, A.F., Sentis, L., and Majewicz Fey, A. POVFormer: Learning autonomous point-of-view control from teleoperated grasping and manipulation demonstrations. *IEEE ROMAN*, 2026. To appear.
+📄 Boyea, H., Galvan, A.F., Sentis, L., and Majewicz Fey, A. POVFormer: Learning autonomous
+point-of-view control from teleoperated grasping and manipulation demonstrations. *IEEE ROMAN*,
+2026. To appear.
 
 ---
 
