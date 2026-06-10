@@ -24,8 +24,8 @@ generated from our dVRK digital twin (see below).
   <figcaption>Final system including segmentation, depth, contact estimation, and haptic actuation.</figcaption>
 </figure>
 
-📄 Galvan, A.F., Rowland, D., and Majewicz Fey, A. Toward vision-based proximity estimation
-and tactile feedback for surgical teleoperation. *IEEE RA-L*, 2026. To appear.
+📄 Galvan, A.F., Rowland, D., and Majewicz Fey, A. Towards Enhancing Spatial Awareness in Surgical
+Teleoperation via Vision-Based Proximity Feedback. *IEEE RA-L*, 2026. Under review.
 
 ---
 
