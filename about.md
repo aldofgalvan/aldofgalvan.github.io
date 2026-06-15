@@ -15,9 +15,9 @@ with a diverse array of robotic hardware and software.
 Much of my recent work is currently under review — you can learn more about it on my
 [Selected Projects](/projects/) page.
 
-
 [Google Scholar](https://scholar.google.com/your-profile) · 
 [LinkedIn](https://linkedin.com/in/aldofgalvan) · 
-[GitHub](https://github.com/aldofgalvan)
+[GitHub](https://github.com/aldofgalvan) · 
+[📄 Download My Resume](/assets/resume.pdf)
 
 
