@@ -11,7 +11,7 @@ demonstration collection for downstream robot learning. My contributions are the
 teleoperation system between the Lambda.7 haptic feedback device and Roboligent Optimo
 and PLATO arm-hand assembly enabling real-time, low-latency control. Moreover I handled
 creating a time-aligned data collection framework with HDF5 export, including necessary
-calibrations.
+calibrations. Data was used to train Transformer-based policies for autonomous block extraction.
 
 <figure>
 <iframe width="560" height="315" 
